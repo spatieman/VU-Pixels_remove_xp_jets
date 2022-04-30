@@ -1,0 +1,10 @@
+{
+  "Name": "VU-Pixels_remove_xp_jets",
+  "Authors": ["breaknix,iamadeadpixel"],
+  "Description": "this wil removed jets and gunship/dropship for XP maps",
+  "Version": "1.0.0",
+  "HasVeniceEXT": true,
+  "Dependencies": {
+    "veniceext": "^1.0.0"
+  }
+}
